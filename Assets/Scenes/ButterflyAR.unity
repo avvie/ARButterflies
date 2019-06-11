@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 9676968}
   - component: {fileID: 9676967}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -492,7 +492,7 @@ GameObject:
   - component: {fileID: 2012699138}
   - component: {fileID: 2012699140}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Interaction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -532,7 +532,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2012699137}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dfb47497b86eac044b6f85e97de61a2a, type: 3}
   m_Name: 
